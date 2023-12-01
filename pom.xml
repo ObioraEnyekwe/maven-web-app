@@ -96,7 +96,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>obiora Learning Snapshot Nexus Repository</name>
-	      <url>http://172.31.17.107:8081/repository/maven-web-app-RELEASE/</url>
+	      <url>http://172.31.17.107:8081/repository/maven-we-app-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
